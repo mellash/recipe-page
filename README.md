@@ -19,9 +19,11 @@ I did this challenge to improve my HTML, CSS and maintainable code writing skill
 ### Design
 
 - Desktop design
+
 ![desktop design showcase](./design/desktop-design.jpg)
 
 - Mobile design
+
 ![mobile design showcase](./design/mobile-design.jpg)
 
 ### Links
