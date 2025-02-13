@@ -28,18 +28,21 @@ I did this challenge to improve my HTML, CSS and maintainable code writing skill
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Site](https://www.frontendmentor.io/solutions/a-responsive-page-with-html-and-css-only-u0fj_pta5M)
+- Live Site URL: [Live Site](https://recipe-page-pro.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS3
+- CSS3 with BEM class naming style
 - Desktop first workflow
 
 ### What I learned
 
+I learned how to name classes with BEM styling, which is good for maintainable CSS code. On the HTML side I used [HTML validator](https://validator.w3.org/) to make sure I follow the spec for good SEO and accessibility page.
+
 ### Continued development
 
+I would like to improve my BEM naming style and responsive page with media queries
