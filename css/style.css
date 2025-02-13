@@ -138,11 +138,11 @@ img {
 }
 
 .nutritions__table {
+  width: 100%;
   border-collapse: collapse;
 }
 
 .nutritions__table td {
-  width: 100%;
   padding-block: 1em;
   padding-right: 10em;
   padding-left: 2em;
@@ -170,7 +170,6 @@ img {
   }
 
   .nutritions__table td {
-    width: 100%;
     padding-right: 6em;
     padding-left: 3em;
   }
